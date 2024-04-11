@@ -1,14 +1,7 @@
 <p align="center"> 
-  <img alt="Projeto" src="./assets/tela inicial.png">
+  <img alt="Projeto" src="./tela inicial.png">
 
 </p>
-
- <p align= "center"
-Tabela sem registro
-</p>
-
-   
-  <img alt="Projeto" src="./assets/tabela vazia.png">
 
 
 
