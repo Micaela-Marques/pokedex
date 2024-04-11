@@ -24,7 +24,7 @@ Tabela sem registro
 - **Javascript**
 - **Modularização**
 - **Metodos Estaticos e Promessas**
-- **Imutabilidade**
+
 
 
   
